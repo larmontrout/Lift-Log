@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <rect width="180" height="180" rx="40" fill="#0a0a0a"/>
+  <text x="90" y="70" font-family="Georgia,serif" font-size="48" font-weight="700" fill="#c8f060" text-anchor="middle" dominant-baseline="middle">LIFT</text>
+  <text x="90" y="118" font-family="Georgia,serif" font-size="16" fill="#555" text-anchor="middle">LOG</text>
+</svg>
